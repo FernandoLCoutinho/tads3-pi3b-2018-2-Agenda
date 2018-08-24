@@ -33,6 +33,10 @@ public class Agenda {
     public static void main(String[] args) {
         Agenda agenda = new Agenda();
         agenda.executar();
+        for(int i = 0; i < 100; i++){
+            System.out.println("Eu boto no cu o piru sai na boca\n"
+                    + "Eu boto na boca o piru sai no cu");
+        }
 
     }
 
